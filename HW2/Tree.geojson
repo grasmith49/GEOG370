@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Tree",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "name": "My_Favorite_Tree" }, "geometry": { "type": "Point", "coordinates": [ -8969175.537360418587923, 4218396.7375453626737 ] } }
-]
-}
