@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "UnionStreetSjson",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "name": "Union Street S" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8969236.395034266635776, 4218471.617091113701463 ], [ -8969103.266159703955054, 4218345.91970297228545 ], [ -8969089.169413262978196, 4218330.657159679569304 ], [ -8969082.021955924108624, 4218322.929447724483907 ] ] ] } }
-]
-}
