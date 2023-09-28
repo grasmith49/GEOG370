@@ -1,0 +1,90 @@
+<PAMDataset>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP toolkit 3.0-28, framework 1.6">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:iX="http://ns.adobe.com/iX/1.0/">
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/">
+          <crs:Version>2.2</crs:Version>
+          <crs:RawFileName>7LBL02021_202.DCR</crs:RawFileName>
+          <crs:WhiteBalance>As Shot</crs:WhiteBalance>
+          <crs:Exposure>0.00</crs:Exposure>
+          <crs:Shadows>5</crs:Shadows>
+          <crs:Brightness>50</crs:Brightness>
+          <crs:Contrast>+25</crs:Contrast>
+          <crs:Saturation>0</crs:Saturation>
+          <crs:Sharpness>25</crs:Sharpness>
+          <crs:LuminanceSmoothing>0</crs:LuminanceSmoothing>
+          <crs:ColorNoiseReduction>25</crs:ColorNoiseReduction>
+          <crs:ChromaticAberrationR>0</crs:ChromaticAberrationR>
+          <crs:ChromaticAberrationB>0</crs:ChromaticAberrationB>
+          <crs:VignetteAmount>0</crs:VignetteAmount>
+          <crs:ShadowTint>0</crs:ShadowTint>
+          <crs:RedHue>0</crs:RedHue>
+          <crs:RedSaturation>0</crs:RedSaturation>
+          <crs:GreenHue>0</crs:GreenHue>
+          <crs:GreenSaturation>0</crs:GreenSaturation>
+          <crs:BlueHue>0</crs:BlueHue>
+          <crs:BlueSaturation>0</crs:BlueSaturation>
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:exif="http://ns.adobe.com/exif/1.0/">
+          <exif:ExposureTime>1/3</exif:ExposureTime>
+          <exif:ShutterSpeedValue>1584963/1000000</exif:ShutterSpeedValue>
+          <exif:FNumber>8/1</exif:FNumber>
+          <exif:ApertureValue>6/1</exif:ApertureValue>
+          <exif:ExposureProgram>1</exif:ExposureProgram>
+          <exif:DateTimeOriginal>2006-02-01T08:49:20-06:00</exif:DateTimeOriginal>
+          <exif:ExposureBiasValue>0/1</exif:ExposureBiasValue>
+          <exif:MaxApertureValue>14/10</exif:MaxApertureValue>
+          <exif:MeteringMode>4</exif:MeteringMode>
+          <exif:FocalLength>50/1</exif:FocalLength>
+          <exif:ISOSpeedRatings>
+            <rdf:Seq>
+              <rdf:li>160</rdf:li>
+            </rdf:Seq>
+          </exif:ISOSpeedRatings>
+          <exif:Flash rdf:parseType="Resource">
+            <exif:Fired>False</exif:Fired>
+            <exif:Return>0</exif:Return>
+            <exif:Mode>0</exif:Mode>
+            <exif:Function>False</exif:Function>
+            <exif:RedEyeMode>False</exif:RedEyeMode>
+          </exif:Flash>
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:aux="http://ns.adobe.com/exif/1.0/aux/">
+          <aux:SerialNumber>PSLRN-20421</aux:SerialNumber>
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:pdf="http://ns.adobe.com/pdf/1.3/" />
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+          <photoshop:History />
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:tiff="http://ns.adobe.com/tiff/1.0/">
+          <tiff:Make>Kodak</tiff:Make>
+          <tiff:Model>DCS Pro SLR/n</tiff:Model>
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:xap="http://ns.adobe.com/xap/1.0/">
+          <xap:CreatorTool>Adobe Photoshop CS Windows</xap:CreatorTool>
+          <xap:ModifyDate>2006-02-02T09:57:38-06:00</xap:ModifyDate>
+          <xap:CreateDate>2006-02-02T09:57:38-06:00</xap:CreateDate>
+          <xap:MetadataDate>2006-02-02T09:57:38-06:00</xap:MetadataDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xapMM:DocumentID>adobe:docid:photoshop:9a431063-9404-11da-aab4-e1abac92c52e</xapMM:DocumentID>
+        </rdf:Description>
+        <rdf:Description rdf:about="uuid:a211d8ed-9404-11da-aab4-e1abac92c52e" xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <dc:format>image/tiff</dc:format>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">135.07745004252</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">50.008604612526</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
