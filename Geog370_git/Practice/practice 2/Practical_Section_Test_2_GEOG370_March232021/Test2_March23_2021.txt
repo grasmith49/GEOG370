@@ -1,0 +1,20 @@
+The attached data has a shapefile of the states in the continental US in EPSG4326, a CSV with information about the capitals of each state, and a CSV with the population in 1920. Make a map of population in 1920 per square mile by state, using the provided data. Also present ALL the capitals of each state as points.  Query the state capital dataset, and make a new layer that only includes the capitals with a population above 250,000 in the year 2000 ("POP2000").  Only label the capitals with population above 250,000. Look at the rubric below to see all of the requirements expected from the map.  
+
+
+1- Polygon layer (states) displayed
+1- Point layer (capitals) displayed on top of states layer (these points should not be labeled)
+1- Point layer of capitals with pop. above 400,000 displayed with a different symbol above the capital point layer.  
+1- Capitals with population above 400,000 are labeled
+1- Polygon layer attribute table joined with population table
+1- Population density calculated
+1- Choropleth categories using "NATURAL BREAKS" classification with at least 6 classes and no more than 8.
+1- The map projection is not 4326 or mercator, but is a projection appropriate for the continental USA. 
+1- The map has a legend, north, title and your name
+1- The names in the legend are not the default names of the layers
+1- The color scheme of the points, polygons and fonts are not default colors. The choropleth should not use blues or reds, but other sequential color gradients are ok. 
+1- The legend numbers are in a format that are easy to read and that make sense (for example values such as .00018783 people per hectare, or 100009908912 people per square meter would not be appropriate) 
+
+
+PS1: Washington, DC has the highest density, hence it is possible that you will not be able to see the color of your highest value in the map. 
+PS2: Don't be dismayed if you have difficulty with one task.  Demonstrate that you can do everything else in the rubric.
+PS3: Only upload the PNG of the map. 
